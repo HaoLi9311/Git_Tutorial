@@ -1,0 +1,12 @@
+1. Creating a repository
+	- git init: initialize a git repository.
+	- git add <file>, add a file to repository.
+	- git commit -m "xxxx", submit a file to repository.
+
+2. time machine
+	- git status: tell modified files.
+	- git diff: tell the modified parts.
+	- git log --pretty=oneline: tell commit log.
+	- git reset --hard HEAD^: reset to a previous version
+	- git reflog: records commands history.
+	- working directory: git add 
